@@ -15,7 +15,7 @@ body{
 
 header{
     height: 15%;
-    background-color: #f1cfa5;
+    background:linear-gradient(90deg, #f1d84b, #f1cfa5);
 }
 
 header p{
@@ -34,7 +34,7 @@ main{
 
 footer{
     height: 8%;
-    background-color: #f1cfa5;
+    background:linear-gradient(90deg, #f1cfa5, #f1d84b);
     text-align: center;
     padding-top: 1.1rem;  
 }
