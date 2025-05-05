@@ -32,6 +32,13 @@ main{
     align-items: center;
 }
 
+ol {
+    padding-top: 2rem;
+}
+
+li{
+    padding-bottom: 0.5rem;
+}
 footer{
     height: 8%;
     background:linear-gradient(90deg, #f1cfa5, #f1d84b);
